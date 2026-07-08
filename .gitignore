@@ -41,3 +41,6 @@ bin/
 ### Derby Database ###
 data/
 derby.log
+
+### Spec Kit Local State ###
+.specify/feature.json
